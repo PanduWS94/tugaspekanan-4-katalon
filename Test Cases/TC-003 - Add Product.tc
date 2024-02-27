@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan salah satu produk ke keranjang lalu remove kembali</description>
+   <name>TC-003 - Add Product</name>
+   <tag>addproducts</tag>
+   <comment></comment>
+   <testCaseGuid>dc4ad522-5b3c-4659-8147-accdfac9da90</testCaseGuid>
+</TestCaseEntity>
