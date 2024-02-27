@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan username : standard_user&#xd;
+dan password : secret_sauce</description>
+   <name>TC-001 - Login</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>bcb3c77e-f7eb-4591-9d7b-e3d8617e2b8e</testCaseGuid>
+</TestCaseEntity>

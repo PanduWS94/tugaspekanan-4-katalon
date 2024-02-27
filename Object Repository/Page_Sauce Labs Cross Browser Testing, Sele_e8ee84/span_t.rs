@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_t</name>
+   <tag></tag>
+   <elementGuidId>4a83bd9b-68ab-4a57-8174-f2c5d81151b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div/div/div[2]/h1[2]/span[29]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h1.css-17jygq > span:nth-of-type(29)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f743ccf-8459-405f-bf46-1e90029aa670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>t</value>
+      <webElementGuid>aea21e89-6a77-4b1e-982a-721c0c9ace7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-14ifkx6&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-sv9kmg&quot;]/div[@class=&quot;MuiStack-root css-zgf6by&quot;]/div[@class=&quot;MuiStack-root css-mq2a14&quot;]/div[@class=&quot;MuiStack-root css-lu2zz1&quot;]/div[@class=&quot;MuiBox-root css-n1tub6&quot;]/div[@class=&quot;MuiBox-root css-mntjpt&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h1 css-17jygq&quot;]/span[29]</value>
+      <webElementGuid>35bea458-d8fd-448e-8ae6-ca0939c14658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div/div/div[2]/h1[2]/span[29]</value>
+      <webElementGuid>cd9f6351-b614-497c-be99-b30f41dcb494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='n'])[6]/following::span[1]</value>
+      <webElementGuid>0fb2b867-67a5-420a-87bc-ee882af0c4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e'])[20]/following::span[2]</value>
+      <webElementGuid>eb3985d9-a9b8-4f2f-86ad-f7e4443c6005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try it free'])[2]/preceding::span[1]</value>
+      <webElementGuid>0c50d778-795e-426c-9999-912cd0785ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request a demo'])[2]/preceding::span[2]</value>
+      <webElementGuid>e29fc5c2-4620-4249-bcb0-65d00ef9969f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1[2]/span[29]</value>
+      <webElementGuid>56dcea64-b232-4607-a8f4-f4e549c70652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 't' or . = 't')]</value>
+      <webElementGuid>16713e9f-9b5a-4511-a1d4-53f32e3e9bb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
