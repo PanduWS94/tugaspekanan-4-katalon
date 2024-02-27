@@ -23,9 +23,7 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Swag Labs/button_Remove'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bike Light'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Remove'))
 
