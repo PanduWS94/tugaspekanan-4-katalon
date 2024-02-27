@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c37af866-f266-46b1-920e-bf644c2e6551</webElementGuid>
+      <webElementGuid>da9f1522-0df9-46f0-88eb-0aae773f0b92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_password</value>
-      <webElementGuid>c9b35d07-25c2-4252-a3ab-434ff14f4f4c</webElementGuid>
+      <webElementGuid>c86db92c-2352-4731-af11-1b4ab880ae4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Password for all users:secret_sauce</value>
-      <webElementGuid>b608592a-244a-4ed8-ad4f-519095ecf4eb</webElementGuid>
+      <webElementGuid>1bd3aaf0-6300-45ca-8efa-691a7ae38b12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;login_container&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]/div[@class=&quot;login_password&quot;]</value>
-      <webElementGuid>27db2dfe-0166-4b98-8e64-c2037688d607</webElementGuid>
+      <webElementGuid>21e12666-2e76-4768-b5e3-68ce9d0494e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div[2]</value>
-      <webElementGuid>a2057c74-18db-4e09-a392-09127b3f3b87</webElementGuid>
+      <webElementGuid>bf800d27-aaa1-4f49-a8b2-5980034f72f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/following::div[1]</value>
-      <webElementGuid>209b6c6a-af59-4cfa-9853-046abcab6cfc</webElementGuid>
+      <webElementGuid>b83a1a38-7213-42b4-9216-649c0b6caaf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='secret_sauce']/parent::*</value>
-      <webElementGuid>31bc00ea-08ca-46cf-9510-2c0bb0dd7ccb</webElementGuid>
+      <webElementGuid>981e262e-ac38-4846-bc2f-b4c841bd73b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]</value>
-      <webElementGuid>922afad4-db9f-40f1-ac61-cc6006e264a4</webElementGuid>
+      <webElementGuid>9c33d757-3bb0-4832-b6be-450620eda9f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Password for all users:secret_sauce' or . = 'Password for all users:secret_sauce')]</value>
-      <webElementGuid>3c8a942c-e217-4270-83ba-2fe80a184f95</webElementGuid>
+      <webElementGuid>c6c3abde-ced3-444b-a223-14da47e8437c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

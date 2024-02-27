@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>f1b8fae0-0d69-4f5b-b6ed-26aa8b074349</webElementGuid>
+      <webElementGuid>90aefded-1d0b-408c-a3f1-753c4e3509cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]</value>
-      <webElementGuid>69730a2b-c2c2-44cf-85cf-3766154e5540</webElementGuid>
+      <webElementGuid>d88a478f-ca7e-4a91-a7cd-b1e9379a3408</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form</value>
-      <webElementGuid>017d5783-cac0-42a9-9c1d-cdc470a8d899</webElementGuid>
+      <webElementGuid>ab0bf6af-99d8-4f8d-954c-780bcf4e9436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::form[1]</value>
-      <webElementGuid>d335f005-d516-46ee-8c3a-5155acb13959</webElementGuid>
+      <webElementGuid>1c5d449a-8de7-46f4-a69d-b888bd2ff30c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/preceding::form[1]</value>
-      <webElementGuid>65f5a2c0-ee7a-40c0-bb8a-d6fc74545540</webElementGuid>
+      <webElementGuid>1ab0c371-6918-4e1a-a397-867358f37603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>c167e09b-45a5-41fa-8eaa-e477025a473e</webElementGuid>
+      <webElementGuid>c29ce45d-1ee9-4f8b-8f05-0ba6f2a3df0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

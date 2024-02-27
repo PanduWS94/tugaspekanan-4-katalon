@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8904e45b-d4b7-4b88-b04c-8793f973e424</webElementGuid>
+      <webElementGuid>596190c6-cd7d-496e-a3e1-994879dfbbd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shopping_cart_link</value>
-      <webElementGuid>bfb8b972-20ff-4219-b966-c3543f24731b</webElementGuid>
+      <webElementGuid>558410c4-e63c-4e8d-a5d6-2520a79c4a5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>e392e9cb-9a38-4db5-82d9-4bd2eb9a0a54</webElementGuid>
+      <webElementGuid>7dbce0f7-eb43-4f24-afcb-52bf5c95482d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link&quot;]</value>
-      <webElementGuid>0367e776-c59a-43bd-b6e2-b19295da9024</webElementGuid>
+      <webElementGuid>d1b18905-09dd-44ee-950c-f5099e077ee3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='shopping_cart_container']/a</value>
-      <webElementGuid>870cc410-1872-40df-947a-ddc5d26d5549</webElementGuid>
+      <webElementGuid>7b051b6f-b128-462e-a2fd-ce1c0b2e76c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::a[1]</value>
-      <webElementGuid>762aa3ec-f0db-4fbf-92ea-25169a0d7a16</webElementGuid>
+      <webElementGuid>c139ba71-1ccd-4452-88bf-663cffeebaa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::a[1]</value>
-      <webElementGuid>6480ddc5-2644-4340-a755-51cebff81b10</webElementGuid>
+      <webElementGuid>99747bf5-c267-4c14-a342-2bea4a3a23a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::a[1]</value>
-      <webElementGuid>c8ee7ec6-cc01-4bda-b99b-17fcd2369b5d</webElementGuid>
+      <webElementGuid>c8ccfc7f-c044-4790-a2a5-540261710d1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a061fff-1c38-48c8-b707-8888ad61ac87</webElementGuid>
+      <webElementGuid>df8bc4f0-fdf7-4777-be48-742fe48dc505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>549bc340-7939-42e3-b144-0e126a33d6fc</webElementGuid>
+      <webElementGuid>7772957b-82f2-41ea-9a25-1a983c294621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = '1' or . = '1')]</value>
-      <webElementGuid>229f5f9f-fa00-4833-9cbd-282c4678b377</webElementGuid>
+      <webElementGuid>21ad5edc-1ed2-430f-8e8f-1a5bb8ad0916</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

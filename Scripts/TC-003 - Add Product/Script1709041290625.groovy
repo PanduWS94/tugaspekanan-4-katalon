@@ -23,11 +23,11 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_1'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Bike Light'))
-
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Remove'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Continue Shopping'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'), 0)
 
